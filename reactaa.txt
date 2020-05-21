@@ -1,0 +1,8 @@
+
+npm install -g create-react-app  # 安装脚手架Create React App
+
+create-react-app project-name  # 创建项目 (项目名称可以自定义) 
+
+npm install #安装依赖包
+
+npm install yarn -g #安装yarn
